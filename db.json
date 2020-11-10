@@ -1,5 +1,5 @@
 {
-   "cards":[
+   "zaim":[
       {
          "id":1,
          "image_url":"https://zaimua.com.ua/img/egrlogo.png",
@@ -71,6 +71,30 @@
          "nakartu":true,
          "zafiveminut":true,
          "kruglosutochno":true
+      }
+   ],
+   "cards":[
+      {
+         "id":1,
+         "name":"Альфа банк",
+         "price_info":"От 3% До 500 000 руб",
+         "image_url":"http://zaem-online.kz/img/alfa.png",
+         "sum":"400 - 15 000",
+         "term":"5 - 100",
+         "percent":"1,50% - 1,85%",
+         "url":"http://minfin.ru",
+         "text":"<p>100 дней без % по кредиту на покупки и снятие наличных.</p><p>Кредитный лимит до 500 000 руб.</p>"
+      },
+      {
+         "id":2,
+         "name":"МТС банк - кредитные карты",
+         "price_info":"От 5% До 300 000 руб",
+         "image_url":"http://zaem-online.kz/img/smart_card_mc_normal.png",
+         "sum":"400 - 15 000",
+         "term":"5 - 100",
+         "percent":"1,50% - 1,85%",
+         "url":"http://minfin.ru",
+         "text":"<p>Новый повышенный кэшбэк 5% на бытовую технику, электронику, одежду и обувь</p><p>Кредитный лимит до 300 000 руб.</p>"
       }
    ]
 }
