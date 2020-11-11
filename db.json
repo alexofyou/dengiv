@@ -1,7 +1,7 @@
 {
    "zaim":[
       {
-         "id":"1",
+         "id":1,
          "image_url":"https://zaimua.com.ua/img/egrlogo.png",
          "name":"Evros",
          "rating":"5",
@@ -25,7 +25,7 @@
          "kruglosutochno":true
       },
       {
-         "id":"2",
+         "id":2,
          "image_url":"https://zaimua.com.ua/img/miloan_logo.png",
          "name":"Milian",
          "rating":"5",
@@ -49,7 +49,7 @@
          "kruglosutochno":true
       },
       {
-         "id":"3",
+         "id":3,
          "image_url":"https://zaimua.com.ua/img/soscredit1.jpg",
          "name":"Soscredit",
          "rating":"5",
