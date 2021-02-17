@@ -2,7 +2,7 @@
    "zaim":[
       {
          "id":1,
-         "image_url":"https://github.com/alexofyou/images/blob/main/ekapustas.png",
+         "image_url":"https://zaimme.ru/wp-content/uploads/ekapusta-logo-160x96-1.png",
          "name":"еКапуста",
          "rating":"5",
          "age":"18-65",
@@ -26,7 +26,7 @@
       },
       {
          "id":2,
-         "image_url":"https://github.com/alexofyou/images/blob/main/logmin.png",
+         "image_url":"https://zaimme.ru/wp-content/uploads/webzaim-160x96-1.png",
          "name":"Вебзайм",
          "rating":"5",
          "age":"18-65",
@@ -104,7 +104,7 @@
         ,
       {
          "id":5,
-         "image_url":"https://zaimme.ru/wp-content/uploads/2018/07/zimer-logo-300x180.png",
+         "image_url":"https://zaimme.ru/wp-content/uploads/zymer-logo-160x96-1.png",
          "name":"Zaymer",
          "rating":"5",
          "age":"18-65",
@@ -131,7 +131,7 @@
    ,
       {
          "id":6,
-         "image_url":"https://unicom24.ru/media/open/4/c/f4/cf40fdf3e47cc83e9e6108eaa85bbc63.png",
+         "image_url":"https://zaimme.ru/wp-content/uploads/turbozaim-logo-160x96-1.png",
          "name":"Турбозайм",
          "rating":"5",
          "age":"18-65",
@@ -159,7 +159,7 @@
        ,
       {
          "id":7,
-         "image_url":"https://zaimme.ru/wp-content/uploads/2018/07/konga-icon.png",
+         "image_url":"https://zaimme.ru/wp-content/uploads/konga-logo-160x96-1.png",
          "name":"Konga",
          "rating":"5",
          "age":"18-65",
@@ -185,7 +185,7 @@
        ,
       {
          "id":8,
-         "image_url":"https://zaimme.ru/wp-content/uploads/2018/07/moneyman-icon.png",
+         "image_url":"https://zaimme.ru/wp-content/uploads/moneyman-logo-160x96-1.png",
          "name":"MoneyMan",
          "rating":"5",
          "age":"18-65",
@@ -212,7 +212,7 @@
        ,
       {
          "id":9,
-         "image_url":"https://zaimme.ru/wp-content/uploads/2018/07/payps-icon.png",
+         "image_url":"https://zaimme.ru/wp-content/uploads/payps-logo-160x96-1.png",
          "name":"Займ-онлайн",
          "rating":"5",
          "age":"18-65",
@@ -266,7 +266,7 @@
         ,
       {
          "id":11,
-         "image_url":"https://unicom24.ru/media/open/3/b/39/b39920caabcc81d5492fad4d68d1efd7.png",
+         "image_url":"https://zaimme.ru/wp-content/uploads/bistrodengi-logo-160x100-1.png",
          "name":"Быстроденьги",
          "rating":"5",
          "age":"18-65",
@@ -318,7 +318,7 @@
          ,
       {
          "id":13,
-         "image_url":"https://zaimme.ru/wp-content/uploads/2018/07/webbankir-icon.png",
+         "image_url":"https://zaimme.ru/wp-content/uploads/webbankir-logo-160x96-1.png",
          "name":"webbankir",
          "rating":"4",
          "age":"18-65",
@@ -344,7 +344,7 @@
         ,
       {
          "id":14,
-         "image_url":"https://zaimme.ru/wp-content/uploads/2018/07/lime-icon.png",
+         "image_url":"https://zaimme.ru/wp-content/uploads/lime-logo-160x96-1.png",
          "name":"Lime-zaim",
          "rating":"4",
          "age":"18-65",
@@ -371,7 +371,7 @@
          ,
       {
          "id":15,
-         "image_url":"https://unicom24.ru/media/open/6/5/b5/5b599f5ee55f99a82ac3b687b33e628b.png",
+         "image_url":"https://zaimme.ru/wp-content/uploads/fast-money-160x96-1.png",
          "name":"Fastmoney",
          "rating":"4",
          "age":"18-65",
@@ -820,7 +820,7 @@
        ,
       {
          "id":16,
-         "image_url":"https://zaimno.ru/image/cache/data/zaem/zaem2/cashu-150x150.png",
+         "image_url":"https://unicom24.ru/media/open/2/d/f1/df13d9af0e2d1f55fddbe6821ed70ffb.png",
          "name":"Cash U",
          "rating":"4",
          "age":"18-65",
