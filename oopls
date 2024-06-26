@@ -1,0 +1,32 @@
+[
+      {
+        
+         "image_url":"https://zaimua.com.ua/img/egrlogo.png",
+         "rating":"5",
+         "age":"18-65",
+         "percent":"1%",
+         "sum_one":"до 50 000 руб",
+         "url":"https://google.com",
+         "kiwi":true,
+         "mir":true,
+         "visa":true,
+         "mastercard":true,
+         "ya":true
+      },
+
+ {
+        
+         "image_url":"https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+         "rating":"5",
+         "age":"18-65",
+         "percent":"1%",
+         "sum_one":"до 50 000 руб",
+         "url":"https://google.com",
+         "kiwi":true,
+         "mir":true,
+         "visa":true,
+         "mastercard":true,
+         "ya":true
+      }
+
+ ]
