@@ -1,24 +1,11 @@
 [
 
-{
-"image_url": "https://storage.yandexcloud.net/wp-dzp-prod/2018/12/logo_DZP1-e1545386325353.jpg",
-      "name": "До Зарплаты",
-     "rating": 5,
-     "percent": "0%",
-	"sum_one": "до 100 000 руб",
- "url": "https://trkleads.ru/click/d2beed532f0210c4a2a434f721252d00?aff_sub1=dto",
- "nalichnie": false,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true }
-    
-    
-,
+
 
 
 {
 "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/renessans.png",
-      "name": "Миг Кредит",
+      "name": "Ренессанс",
      "rating": 5,
      "percent": "0%",
 	"sum_one": "до 15 000 руб",
@@ -36,7 +23,7 @@
 
 {
 "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/sovkobank.png",
-      "name": "Вива деньги",
+      "name": "Совком Банк",
      "rating": 5,
      "percent": "0%",
 	"sum_one": "до 80 000 руб",
