@@ -2,6 +2,7 @@
 
 {
 "name": "ВебЗайм",
+"percent": "0%",
 "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/logmin.png",   
 "sum_one": "от 100 до 30 000 руб",
 "rating": 5,
@@ -16,6 +17,7 @@
 
  {
 "name": "Екапуста",
+"percent": "0%",
 "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",   
 "sum_one": "от 100 до 30 000 руб",
 "rating": 5,
@@ -31,6 +33,7 @@
 
  {
  "name": "JoyMoney",
+"percent": "0%",
 "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/joymoneyg.png",   
 "sum_one": "от 3 000 до 100 000 руб",
 "rating": 5,
@@ -49,6 +52,7 @@
 
  {
  "name": "Быстроденьги",
+"percent": "0%",
 "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",   
 "sum_one": "от 3 000 до 15 000 руб",
 "rating": 5,
@@ -66,6 +70,7 @@
 
 {
 "name": "Турбозайм",
+"percent": "0%",
 "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/turbo.jpg",   
 "sum_one": "от 3 000 до 50 000 руб",
 "rating": 5,
@@ -82,6 +87,7 @@
 
 {
 "name": "СрочноДеньги",
+"percent": "0%",
 "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/srochnodeng.jpg",   
 "sum_one": "от 3 000 до 50 000 руб",
 "rating": 5,
@@ -97,6 +103,7 @@
 
 {
  "name": "Деньги Сразу",
+"percent": "0%",
 "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/srazuz.jpg",   
 "sum_one": "от 3 000 до 100 000 руб",
 "rating": 5,
