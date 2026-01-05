@@ -1,39 +1,113 @@
 [
 
-
-
-
 {
-"image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/renessans.png",
-      "name": "Ренессанс",
-     "rating": 5,
-     "percent": "0%",
-	"sum_one": "до 15 000 руб",
- "url": "https://anketa.rencredit.ru/app/credit/site/?utm_referrer=https%3a%2f%2frencredit.ru%2f#anketa",
- "nalichnie": false,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true }
+"name": "ВебЗайм",
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/logmin.png",   
+"sum_one": "от 100 до 30 000 руб",
+"rating": 5,
+"nalichnie": false,
+  "nakartu": true,
+  "zafiveminut": true,
+  "kruglosutochno": true,
+ "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=toimnbv"
+}
+
+,
+
+ {
+"name": "Екапуста",
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",   
+"sum_one": "от 100 до 30 000 руб",
+"rating": 5,
+"nalichnie": false,
+  "nakartu": true,
+  "zafiveminut": true,
+  "kruglosutochno": true,
+ "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=toimnbv"
+}
+
+,
+
+
+ {
+ "name": "JoyMoney",
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/joymoneyg.png",   
+"sum_one": "от 3 000 до 100 000 руб",
+"rating": 5,
+"nalichnie": false,
+  "nakartu": true,
+  "zafiveminut": true,
+  "kruglosutochno": true,
+ "url": "https://trkleads.ru/click/3298ea360c76e3a192411298c7a26576?aff_sub1=toimnbv"
+}
     
-    
+
+
+,
+
+ 
+
+ {
+ "name": "Быстроденьги",
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",   
+"sum_one": "от 3 000 до 15 000 руб",
+"rating": 5,
+"nalichnie": false,
+  "nakartu": true,
+  "zafiveminut": true,
+  "kruglosutochno": true,
+ "url": "https://pxl.leads.su/click/f776afdb73a56fcc453938708a0c0f11?aff_sub1=toimnbv"
+}
+
+
 ,
 
 
 
+{
+"name": "Турбозайм",
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/turbo.jpg",   
+"sum_one": "от 3 000 до 50 000 руб",
+"rating": 5,
+"nalichnie": false,
+  "nakartu": true,
+  "zafiveminut": true,
+  "kruglosutochno": true,
+ "url": "https://trkleads.ru/click/0a93339708f40081ea09352834d9b92a?aff_sub1=toimnbv"
+}
+
+,
+
+
 
 {
-"image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/sovkobank.png",
-      "name": "Совком Банк",
-     "rating": 5,
-     "percent": "0%",
-	"sum_one": "до 80 000 руб",
- "url": "https://sovcombank.ru/credits/cash",
- "nalichnie": false,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true }
+"name": "СрочноДеньги",
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/srochnodeng.jpg",   
+"sum_one": "от 3 000 до 50 000 руб",
+"rating": 5,
+"nalichnie": false,
+  "nakartu": true,
+  "zafiveminut": true,
+  "kruglosutochno": true,
+ "url": "https://trkleads.ru/click/69163ac50e333c942c51d5ca9400b7b6?aff_sub1=toimnbv&erid=2W5zFJkUBEY"
+}
 
-    
+,
+
+
+{
+ "name": "Деньги Сразу",
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/srazuz.jpg",   
+"sum_one": "от 3 000 до 100 000 руб",
+"rating": 5,
+"nalichnie": false,
+  "nakartu": true,
+  "zafiveminut": true,
+  "kruglosutochno": true,
+ "url": "https://trkleads.ru/click/49b6f59570becd0c9d9a772afb1302ad?aff_sub1=toimnbv&erid=2W5zFGDsBp4"
+}
+
+
     
 
 ]
